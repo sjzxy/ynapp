@@ -1,12 +1,12 @@
 {
     "@platforms" : [ "android", "iPhone", "iPad" ],
-    "id" : "H5AABB301", /*应用的标识*/
-    "name" : "档案管理系统", /*应用名称，程序桌面图标名称*/
+    "id" : "H56F510AF", /*应用的标识*/
+    "name" : "档案管理", /*应用名称，程序桌面图标名称*/
     "version" : {
-        "name" : "2.1.9", /*应用版本名称*/
-        "code" : 20109
+        "name" : "4.0.0", /*应用版本名称*/
+        "code" : 40000
     },
-    "description" : "", /*应用描述信息*/
+    "description" : "4.0全新线上版本的功能", /*应用描述信息*/
     "icons" : {
         "72" : "icon.png"
     },
@@ -221,5 +221,6 @@
             }
         }
     },
-    "screenOrientation" : [ "portrait-primary" ]
+    "screenOrientation" : [ "portrait-primary" ],
+    "fullscreen" : false
 }
